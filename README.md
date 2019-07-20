@@ -9,7 +9,7 @@
 
 ## Getting your APIKey
 
-- Click your profile at the top right corner of the screen
+- Click your profile at the top right corner of the page
 
 ![](https://i.gyazo.com/768a210c79691e91101439c7bc8cc834.png)
 
