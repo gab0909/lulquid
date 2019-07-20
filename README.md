@@ -1,5 +1,5 @@
 
-# WAX Creator API Tutorial
+# WAX Creator APIKey Tutorial
 
 ## Getting Started
 
