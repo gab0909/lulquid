@@ -1,5 +1,5 @@
 
-# WAX Creator APIKey Tutorial
+# WAX Creator API Key Tutorial
 
 ## Getting Started
 
@@ -7,7 +7,7 @@
 
 ![](https://i.gyazo.com/672752814ecd9edf1253573c5faee6a1.png)
 
-## Getting your APIKey
+## Generating your API Key
 
 - Click your profile at the top right corner of the page
 
